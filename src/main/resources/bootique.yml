@@ -1,0 +1,7 @@
+jetty:
+  staticResourceBase: "classpath:static"
+  connectors:
+    - port: 9999
+
+mvc:
+  templateBase: "classpath:"
