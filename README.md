@@ -9,7 +9,6 @@ Simple [Bootique](http://bootique.io) app demonstrating the Bootique MVC Module 
 # Build the demo
 
 ```
-
 git clone https://github.com/bootique-examples/bootique-mvc-demo.git
 cd bootique-mvc-demo
 mvn package
@@ -22,7 +21,7 @@ java -jar target/bootique-mvc-demo-1.0-SNAPSHOT.jar
 
 After launching the app, go to
 
-1. [http://localhost:9999/] Get user info from model
-2. [http://localhost:9999/hello] get hello page
+1. http://localhost:9999/ Get user info from model
+2. http://localhost:9999/hello get hello page
 
 
