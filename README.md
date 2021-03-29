@@ -1,3 +1,4 @@
+[![verify](https://github.com/bootique-examples/bootique-mvc-demo/actions/workflows/verify.yml/badge.svg)](https://github.com/bootique-examples/bootique-mvc-demo/actions/workflows/verify.yml)
 # bootique-mvc-demo
 
 Simple [Bootique](http://bootique.io) app demonstrating the Bootique MVC Module with Jetty, Jersey and Mustache.
